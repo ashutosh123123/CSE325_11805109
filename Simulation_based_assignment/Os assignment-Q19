@@ -44,6 +44,7 @@ void main()
 	}
 	avgwt=(float)totwt/n;
 	printf("S_name\t P_time\t No.Gifts\tW_time\n");
+	//Output
 	for(i=0;i<n;i++)
 	{
 	   printf(" %s\t %d\t %d\t \t%d\n" ,p[i],pt[i],pr[i],wt[i]);
