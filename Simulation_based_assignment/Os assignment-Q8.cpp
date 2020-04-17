@@ -72,7 +72,7 @@ printf("\n  %d",p[i]); printf("\t\t %d",bt[i]); printf("\t\t %d",w[i]); printf("
 awt/=n;
 atat/=n;
 printf("\n Average Wait Time : %d ",awt);
-printf("\n Average Turn Around Time : %d",atat);
+printf("\n Average Turn Around Time : %d",atat);//to print average turn around time
 getch();
 }
 ----------------------------------------------------------------------------------------------------------------------------------------------
