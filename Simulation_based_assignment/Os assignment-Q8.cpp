@@ -4,7 +4,7 @@
 int main()
  {
    int x,n,p[10],pp[10],bt[10],w[10],t[10],awt,atat,i,at[10],tq;
-   printf("Enter the number of process : ");
+   printf("Enter the number of process : ");//enter the number of process
    scanf("%d",&n);
    printf("Enter time quantum");//the time quantum
    scanf("%d",&tq);
