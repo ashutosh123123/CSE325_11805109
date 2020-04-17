@@ -10,7 +10,7 @@ int main()
    scanf("%d",&tq);
    printf("\n\t Enter burst time : time priorities : Arrival time  \n");
  
-   for(i=0;i<n;i++)
+   for(i=0;i<n;i++)//loop for the processes
     {
       //cout<<"\nProcess["<<i+1<<"]:";
       printf("\n Process %d ",i+1);
