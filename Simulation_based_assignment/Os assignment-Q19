@@ -9,7 +9,7 @@ void main()
 	float avgwt;
 	printf("Enter no of students:");
 	scanf("%d",&n);
-	for(i=0;i<n;i++)
+	for(i=0;i<n;i++)//Input for the process
 	{
 		printf("enter student %d name:",i+1);
   		scanf("%s",&p[i]);
