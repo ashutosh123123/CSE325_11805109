@@ -5,7 +5,7 @@ int main()
  {
    int x,n,p[10],pp[10],bt[10],w[10],t[10],awt,atat,i,at[10],tq;
    printf("Enter the number of process : ");//enter the number of process
-   scanf("%d",&n);
+   scanf("%d",&n);//input for the process
    printf("Enter time quantum");//the time quantum
    scanf("%d",&tq);
    printf("\n\t Enter burst time : time priorities : Arrival time  \n");
